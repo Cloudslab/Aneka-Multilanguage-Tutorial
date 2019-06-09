@@ -1,5 +1,5 @@
 # Aneka-Multilanguage-Tutorial
-Developing programs in diverge .NET compatible languages for Aneka PaaS
+Developing programs in diverse .NET compatible languages for Aneka PaaS
 
 
 ## Developer
